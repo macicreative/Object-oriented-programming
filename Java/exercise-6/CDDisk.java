@@ -3,8 +3,8 @@ package zadatak2;
 public class CDDisk {
 	
 	private int id;
-	String naziv;
-	String izvodjac;
+	private String naziv;
+	private String izvodjac;
 	
 	public CDDisk() {
 		naziv = "nepoznat";
